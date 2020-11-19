@@ -1,4 +1,4 @@
-# Named-Entity-Extractor
+# nlp-tag
 A simple Flask API for named entity extraction using spaCy Model
 
 # Setting
@@ -19,4 +19,3 @@ deactivate
 ```python
 python app.py
 ```
-# nlp-tag
